@@ -1,3 +1,2 @@
 - command: echo test
 - command: echo {{ VAR_1 }}
-# 榎本

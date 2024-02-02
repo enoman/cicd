@@ -1,2 +1,2 @@
-- command: echo test
+- command: echo testaaa
 - command: echo {{ VAR_1 }}
